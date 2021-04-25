@@ -1,0 +1,22 @@
+{
+  "name": "try-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JOJO JOSEPH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-onvif": "^0.1.7",
+    "node-rtsp-stream": "0.0.8",
+    "rtsp-ffmpeg": "0.0.14",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  },
+  "keywords": [],
+  "description": ""
+}
